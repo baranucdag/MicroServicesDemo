@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Reserviaton.Models
+namespace Reservation.Models
 {
     public class ReservationDTO
     {

@@ -1,5 +1,5 @@
 ﻿using Reservation.DataAccess;
-using Reserviaton.Models;
+using Reservation.Models;
 using System;
 
 namespace Reservation.Business

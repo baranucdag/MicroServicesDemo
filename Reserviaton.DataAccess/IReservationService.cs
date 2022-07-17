@@ -1,4 +1,4 @@
-﻿using Reserviaton.Models;
+﻿using Reservation.Models;
 using System;
 
 namespace Reservation.DataAccess
